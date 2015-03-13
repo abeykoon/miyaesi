@@ -1,0 +1,1 @@
+This program tries to find notes out of the given Wave file.
